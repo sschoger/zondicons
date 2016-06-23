@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>hand-stop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hand-stop" fill="#000000">
+            <path d="M17,15.9998075 C17,18.2090528 15.2126701,20 13.0068977,20 L6.99310226,20 C4.78777278,20 3,18.2122004 3,15.990237 L3,11 L3,3.99539757 C3,3.44565467 3.44386482,3 4,3 C4.55228475,3 5,3.4556644 5,3.99539757 L5,10 L6,10 L6,1.9955775 C6,1.44573523 6.44386482,1 7,1 C7.55228475,1 8,1.44483697 8,1.9955775 L8,10 L9,10 L9,1.00247329 C9,0.448822582 9.44386482,0 10,0 C10.5522847,0 11,0.455760956 11,1.00247329 L11,10 L12,10 L12,1.9955775 C12,1.44573523 12.4438648,1 13,1 C13.5522847,1 14,1.44483697 14,1.9955775 L14,11 L14,15 L15,15 L15,8.99703014 C15,8.4463856 15.4438648,8 16,8 L17,8 L17,15.4999037 L17,15.9998075 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
