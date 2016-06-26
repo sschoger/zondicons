@@ -167,7 +167,10 @@ section{
 
 .showcase{
 	margin-bottom: 20px;
-	margin-top: 20px;
+}
+
+.showcase h2{
+	margin-bottom: 20px;
 }
 
 .overview-desc{
