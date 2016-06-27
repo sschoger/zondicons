@@ -342,7 +342,7 @@ nav.navbar a {
 .nav-links .selected{
 	color: #6F7E85;
 	text-decoration: none;
-	border-bottom: 2px solid rgba(199,17,52,0.6);
+	border-bottom: 2px solid rgba(111,126,133,0.6);
 }
 
 nav.navbar a:hover {
