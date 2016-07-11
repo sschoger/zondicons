@@ -179,6 +179,10 @@ section{
 	margin-bottom: 20px;
 }
 
+.about h2{
+	margin-bottom: 20px;
+}
+
 .overview-desc{
 	margin-bottom: 20px;
 }
@@ -186,6 +190,7 @@ section{
 .features{
 	background: #FAFDFF;
 	border-top: 1px solid #E3E5E7;
+	border-bottom: 1px solid #E3E5E7;
 }
 
 .feature{
@@ -330,6 +335,41 @@ body.thank-you-page{
 	margin-top: 28px;
 }
 
+.label{
+	display: inline;
+	padding: .2em .6em .3em;
+	margin-left: 10px;
+	font-size: 75%;
+	font-weight: 700;
+	line-height: 1;
+	color: #fff;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: 1em
+}
+
+.label-default{
+	background-color: #74C1E7;
+}
+
+.avatar{
+	background-image: url("../img/avatar.png");
+	background-size: 109px 109px;
+	width: 109px;
+	height: 109px;
+	margin: 0 auto;
+}
+
+.btn-full-width{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.about-content{ 
+	padding-bottom: 28px;
+}
+
 
 @media 
 (max-width: 799px) { 	
@@ -350,16 +390,16 @@ nav.navbar a:hover {
 	text-decoration: none;
 }
 
+.btn-full-width{
+	width: 100%;
+	margin-bottom: 20px;
+}
 
 header.mobile-banner{
     background-image: url("../img/header-bg.png");
 	background-repeat: repeat;
 	background-size: 480px 480px;
 	padding-bottom: 200px;
-}
-
-.btn{
-	margin: 0 10px;
 }
 
 .showcase, .showcase-desc{
@@ -379,6 +419,13 @@ header.mobile-banner{
 .col-sm-8{
 	width: 100%;
 }
+
+.avatar{
+	float: left;
+	margin-right: 20px;
+}
+
+
 }
 
 @media 
@@ -388,14 +435,34 @@ h2.icons-title{
 	float:none;
 }
 
+.btn-full-width{
+	width: auto;
+	margin-bottom: 20px;
+}
+
+
 .navbar-text{
 	margin-top: 0;
 }
+
+.btn{
+	margin: 0 10px;
+}
+
+.avatar-float{ 
+	margin-top: 28px;
+	margin-left: 123px;
+}
+
+.bio{
+	margin-left: 133px;
+}
+
 }
 
 
 @media 
-(max-width: 320px) { 
+(max-width: 475px) { 
 
 .btn{
 	padding: 8px 22px;
@@ -410,9 +477,24 @@ h2.icons-title{
 	margin: 0;
 }
 
+.bio{
+	float: left;
+	margin: 28px 0; 
+}
+
 .btn-primary{
 	margin-right: 0px;
 	margin-bottom: 20px;
+}
+
+.avatar-float{ 
+	margin-top: 0;
+	margin-left: 0;
+}
+
+.btn-full-width{
+	margin-bottom: 20px;
+	width: 100%;
 }
 
 .btn-default{
