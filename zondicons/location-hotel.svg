@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>location-hotel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="location-hotel" fill="#000000">
+            <path d="M2,12 L2,2 L0,2 L0,18 L2,18 L2,16 L18,16 L18,18 L20,18 L20,15 L20,12 L2,12 Z M10,6 L18.000385,6 C19.1047419,6 20,6.8938998 20,8.0048815 L20,11 L10,11 L10,6 Z M6,11 C7.65685425,11 9,9.65685425 9,8 C9,6.34314575 7.65685425,5 6,5 C4.34314575,5 3,6.34314575 3,8 C3,9.65685425 4.34314575,11 6,11 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

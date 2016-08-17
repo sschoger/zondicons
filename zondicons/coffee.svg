@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>coffee</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="coffee" fill="#000000">
+            <path d="M4,11 L4,11.0068977 C4,13.2126701 5.78777278,15 7.99310226,15 L14.0068977,15 C16.2126701,15 18,13.2122272 18,11.0068977 L18,1 L4,1 L4,3 L2.0048815,3 C0.893899798,3 0,3.89458045 0,4.99810135 L0,9.00189865 C0,10.1132936 0.897616023,11 2.0048815,11 L4,11 Z M4,9 L4,5 L2,5 L2,9 L4,9 Z M2,17 L2,16 L20,16 L20,17 L16,19 L6,19 L2,17 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
