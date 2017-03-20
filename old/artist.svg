@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>artist</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="artist" fill="#000000">
+            <path d="M12.0077993,4.25043997 C11.9388732,3.14497386 12.3267977,2.01634806 13.1715729,1.17157288 C14.73367,-0.390524292 17.26633,-0.390524292 18.8284271,1.17157288 C20.3905243,2.73367004 20.3905243,5.26632996 18.8284271,6.82842712 C17.9836519,7.67320231 16.8550261,8.06112684 15.74956,7.99220072 L12.0077993,4.25043997 Z M1.85786438,15.3137085 L11.0502525,6.12132034 L13.8786797,8.94974747 L4.6862915,18.1421356 L1.85786438,15.3137085 Z M0.443650814,18.1421356 L2.56497116,16.0208153 L3.97918472,17.4350288 L1.85786438,19.5563492 L0.443650814,18.1421356 Z M10,15 L12,13 L12,20 L10,20 L10,15 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

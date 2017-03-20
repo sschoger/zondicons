@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>location-marine</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="location-marine" fill="#000000">
+            <path d="M8,1.87770689 L8,0 L10,0 L10,16 L20,16 L16,20 L2,20 L0,16 L8,16 L8,16 L8,14 L0,14 L0,13.7361129 C3.75637865,10.7248872 6.5877343,6.60739627 8,1.87770689 L8,1.87770689 Z M19.969258,14 L10,14 L10,13.6355902 C11.2636946,11.7349777 12,9.4534755 12,7 C12,4.5465245 11.2636946,2.26502235 10,0.364409754 L10,0.163034095 C15.570379,2.41786621 19.5819057,7.71862888 19.969258,14 L19.969258,14 L19.969258,14 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

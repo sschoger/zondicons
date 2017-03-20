@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>usb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="usb" fill="#000000">
+            <path d="M17,8 L17,9.99408095 C17,11.1019194 16.1134452,12 14.9940809,12 L11,12 L11,16.2675644 C11.5978014,16.6133738 12,17.2597176 12,18 C12,19.1045695 11.1045695,20 10,20 C8.8954305,20 8,19.1045695 8,18 C8,17.2597176 8.40219863,16.6133738 9,16.2675644 L9,14 L5.00591905,14 C3.88655484,14 3,13.1019194 3,11.9940809 L3,9.73243561 C2.40219863,9.38662619 2,8.74028236 2,8 C2,6.8954305 2.8954305,6 4,6 C5.1045695,6 6,6.8954305 6,8 C6,8.74028236 5.59780137,9.38662619 5,9.73243561 L5,12 L9,12 L9,4 L7,4 L10,0 L13,4 L11,4 L11,10 L15,10 L15,8 L14,8 L14,4 L18,4 L18,8 L17,8 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>swap</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="swap" fill="#000000">
+            <path d="M9,10.2675644 L9,4 C9,1.790861 10.790861,0 13,0 C15.209139,0 17,1.790861 17,4 L17,16 L20,16 L16,20 L12,16 L15,16 L15,16 L15,8.73243561 L15,3.99810135 C15,2.88670635 14.1045695,2 13,2 C11.8877296,2 11,2.89458045 11,3.99810135 L11,8.73243561 L11,16 C11,18.209139 9.209139,20 7,20 C4.790861,20 3,18.209139 3,16 L3,4 L0,4 L4,0 L8,4 L5,4 L5,10.2675644 L5,16.000385 C5,17.1125667 5.8954305,18 7,18 C8.11227036,18 9,17.1047419 9,16.000385 L9,10.2675644 L9,10.2675644 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

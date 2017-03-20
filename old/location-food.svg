@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>location-food</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="location-food" fill="#000000">
+            <path d="M18,11 L18,18.007983 C18,19.1081436 17.1122704,20 16,20 C14.8954305,20 14,19.0998238 14,18.007983 L14,13 L12,13 L12,2.99878564 C12,1.34260206 13.3465171,0 15,0 L18,0 L18,11 Z M4,10 L3.99810135,10 C2.89458045,10 2,9.1061002 2,7.9951185 L2,5.5 L2,0.990777969 C2,0.443586406 2.44386482,0 3,0 C3.55228475,0 4,0.45097518 4,0.990777969 L4,5 L5,5 L5,0.990777969 C5,0.443586406 5.44386482,0 6,0 C6.55228475,0 7,0.45097518 7,0.990777969 L7,5 L8,5 L8,0.990777969 C8,0.443586406 8.44386482,0 9,0 C9.55228475,0 10,0.45097518 10,0.990777969 L10,5.5 L10,7.9951185 C10,9.10238398 9.11329365,10 8.00189865,10 L8,10 L8,18.007983 C8,19.1081436 7.11227036,20 6,20 C4.8954305,20 4,19.0998238 4,18.007983 L4,10 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

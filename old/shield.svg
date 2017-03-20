@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>shield</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shield" fill="#000000">
+            <path d="M19,10.9999798 C19,13.2091299 17.4323196,15.8709335 15.5074835,16.940287 L10,20 L4.49251651,16.940287 C2.5636529,15.8686961 1,13.2055487 1,10.9999798 L1,3 C4.3761817,3 7.49184447,1.88458585 9.99858329,0.00216256114 C12.5058076,1.88587336 15.6225461,3.00212826 19,3.00212826 L19,10.9999798 Z M10,12.083735 L7.07502008,14.1191153 L8.1069132,10.708327 L5.26728307,8.55547283 L8.83000801,8.48286996 L10,5.11695271 L11.169992,8.48286996 L14.7327169,8.55547283 L11.8930868,10.708327 L12.9249799,14.1191153 L10,12.083735 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

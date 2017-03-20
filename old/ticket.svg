@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ticket</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ticket" fill="#000000">
+            <path d="M20,12 L20,17 L0,17 L0,12 C1.1045695,12 2,11.1045695 2,10 C2,8.8954305 1.1045695,8 0,8 L0,3 L20,3 L20,8 C18.8954305,8 18,8.8954305 18,10 C18,11.1045695 18.8954305,12 20,12 Z M3,5 L17,5 L17,15 L3,15 L3,5 Z M10,12.0831427 L7.07572273,14.118034 L8.10736797,10.7080651 L5.26841999,8.55572809 L8.83028908,8.48314266 L10,5.11803399 L11.1697109,8.48314266 L14.73158,8.55572809 L11.892632,10.7080651 L12.9242773,14.118034 L10,12.0831427 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
